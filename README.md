@@ -2,7 +2,6 @@
 <hr />
 
 <p>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Delivery__UI/blob/master/IMG/Screenshot_1613572018.png"/>
 <img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Delivery__UI/blob/master/IMG/Screenshot_1613572053.png"/>
 <img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Delivery__UI/blob/master/IMG/Screenshot_1613572063.png"/>
 </p>
